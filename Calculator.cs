@@ -1,5 +1,5 @@
 class Calculator {
-	static void Main(string arg[]) {
+	static void Main(string[] args) {
 		int a = 10;
 		int b = 6;
 		
